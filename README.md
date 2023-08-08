@@ -26,7 +26,7 @@ My e-mail is 2584554192@qq.com , or zhangyucheng@the-beautiful-world.cn
 
 My domain name is **the-beautiful-world.cn**
 
-## Licence:
+## Licence & Copyrights:
 
-DarnedBuzzard70 reserves copyright, although you can see the source code, it cannot be used for commercial or non commercial purposes without permission.
+DarnedBuzzard70 reserves copyrights, although you can see the source code, it cannot be used for commercial or non commercial purposes without permission.
 
