@@ -24,7 +24,7 @@ In Bilibili: [张语诚ZYC](https://space.bilibili.com/1246376182)
 
 My e-mail is 2584554192@qq.com , or zhangyucheng@the-beautiful-world.cn 
 
-My domain name is **the-beautiful-world.cn**
+My domain name is **the-beautiful-world.cn** and **zhangyucheng.work**
 
 ## Licence & Copyrights:
 
